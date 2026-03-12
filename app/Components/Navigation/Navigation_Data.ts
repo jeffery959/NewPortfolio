@@ -4,6 +4,10 @@ const projects = [{id:1,name:"Jan's Art Gallery",src:"/Images/Janes_art_Desktop.
     
     {id:2,name:"Recipe",src:"/Images/Recipe_Desktop.png",link:"https://reciepe-n.vercel.app/",github:"https://github.com/jeffery959/Reciepe-n/tree/main" },
 
-    {id:3,name:"Roscoe-s_potion_emporium",src:"/Images/Roscoe-s_potion_emporium.png",link:"https://drive.google.com/file/d/1aF8KBmGz2Uo-O0tWE5FtnndE5Ops0ze1/view",github:"https://github.com/jeffery959/Roscoe-s_potion_emporium/tree/master"}
+    {id:3,name:"Roscoe-s_potion_emporium",src:"/Images/Roscoe-s_potion_emporium.png",link:"https://drive.google.com/file/d/1aF8KBmGz2Uo-O0tWE5FtnndE5Ops0ze1/view",github:"https://github.com/jeffery959/Roscoe-s_potion_emporium/tree/master"},
+
+    {id:4,name:"Bank Manager",src:"/Images/Bank_Manager.png",link:"https://drive.google.com/file/d/1aszDkRCOELB5SW9gd4MP3P6279IXchid/view?usp=sharing",
+        
+        github:"https://github.com/jeffery959/Bank"}
 ]
 export {linkBase,pages,projects};
